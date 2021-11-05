@@ -15,8 +15,8 @@ header {
 #main-image {
   margin: 0 auto;
   border: solid black 2px;
-  width:  400px; 
-  height: auto;
+  height:  300px; 
+  width: auto;
 }
 
 #page-heading {
