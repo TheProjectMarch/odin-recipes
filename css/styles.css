@@ -38,7 +38,6 @@ header {
   border-bottom: black 2px solid;
   margin-bottom: 12px;
   padding: 14px;
-  /* margin-left: 32px; */
   text-align: center;
 
 }
@@ -53,4 +52,5 @@ section#recipe-directory {
 
 #main-content {
   color: black;
+  padding: 20px;
 }
